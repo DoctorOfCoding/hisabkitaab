@@ -1,6 +1,6 @@
 {
-  "name": "Loan Manager",
-  "short_name": "LoanMgr",
+  "name": "Hisab Kitab",
+  "short_name": "Khataa",
   "description": "Track your loans and borrowings offline",
   "start_url": "/",
   "display": "standalone",
